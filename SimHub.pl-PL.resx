@@ -751,7 +751,7 @@
     <value>Brak powtórek</value>
   </data>
   <data name="ReplayLastGameRecordButton" xml:space="preserve">
-    <value>Odtwórz zapis ostatniej gry</value>
+    <value>Powtórka ostatniego zapisu gry</value>
   </data>
   <data name="ReplayControls_Start" xml:space="preserve">
     <value>Start</value>
@@ -875,5 +875,290 @@
   </data>
   <data name="SettingsRequiresASimhubRestart" xml:space="preserve">
     <value>Wymaga Restartu SimHub</value>
+  </data>
+  <data name="PropertiesNcalcTesterButton" xml:space="preserve">
+    <value>tester Ncalc</value>
+  </data>
+  <data name="PropertiesNewWindowButton" xml:space="preserve">
+    <value>Nowe okno</value>
+  </data>
+  <data name="PropertiesNotSupportedLabel" xml:space="preserve">
+    <value>Nie wspierane</value>
+  </data>
+  <data name="PropertiesPicker_TextBoxWatermark_TypeToFilter" xml:space="preserve">
+    <value>Wpisz żeby przefiltrować</value>
+  </data>
+  <data name="Replay" xml:space="preserve">
+    <value>Powtórka</value>
+  </data>
+  <data name="SettingsAccentOption" xml:space="preserve">
+    <value>Akcent</value>
+  </data>
+  <data name="SettingsAdjustMinimumTyreWearOption" xml:space="preserve">
+    <value>Dopasuj minimalne zużycie opon (% z zgłoszonych danych gry)</value>
+  </data>
+  <data name="SettingsChangeSpeedlocalPropertyUnitOption" xml:space="preserve">
+    <value>Zmień  jednostkę  własności "SpeedLocal"</value>
+  </data>
+  <data name="SettingsControlWPF_ActionPicker_Brightness" xml:space="preserve">
+    <value>Jasność +</value>
+  </data>
+  <data name="SettingsControlWPF_ActionPicker_BrightnessMinus" xml:space="preserve">
+    <value>Jasność -</value>
+  </data>
+  <data name="SettingsLooknfeelSection" xml:space="preserve">
+    <value>Zobacz i  poczuj</value>
+  </data>
+  <data name="SettingsLapTrackingAndLeaderboardsSesction" xml:space="preserve">
+    <value>ŚLEDZENIE OKRĄŻEŃ I  TABLICE WYNIKÓW</value>
+  </data>
+  <data name="ShowSimhubFps" xml:space="preserve">
+    <value>Pokaż FPS SimHub</value>
+  </data>
+  <data name="ShowSimHubFpsComment" xml:space="preserve">
+    <value>Pokaż dane aktualizacji liczników prędkości na dole okna SimHub</value>
+  </data>
+  <data name="StartWithWindows" xml:space="preserve">
+    <value>Uruchom przy starcie systemu</value>
+  </data>
+  <data name="ThanksForYourSupport" xml:space="preserve">
+    <value>Dziękujemy za wsparcie projektu SimHub, Mamy nadzieję że ci się podoba Wotever</value>
+  </data>
+  <data name="DefaultLauncherControl_Target" xml:space="preserve">
+    <value>Cel</value>
+  </data>
+  <data name="GameConfigurationManager_GameIsNotConfiguredInformation" xml:space="preserve">
+    <value>Gra nie jest skonfigurowana</value>
+  </data>
+  <data name="Record" xml:space="preserve">
+    <value>Nagrywaj</value>
+  </data>
+  <data name="ControlsAndEvents_EventsTabTitle" xml:space="preserve">
+    <value>Wydarzenia</value>
+  </data>
+  <data name="ControlsAndEvents_ControllersStatusTabTitle" xml:space="preserve">
+    <value>Status kontrolera</value>
+  </data>
+  <data name="ControlsAndEvents_ThrustmasterManagerTabTitle" xml:space="preserve">
+    <value>Menanger Thrustmaster</value>
+  </data>
+  <data name="ControlsAndEvents_KeyboardEmulationTabTitle" xml:space="preserve">
+    <value>Emulacja klawiatury</value>
+  </data>
+  <data name="JoystickPlugin_CONNECTEDCONTROLLERSTitle" xml:space="preserve">
+    <value>PODŁĄCZONE KONTROLERY</value>
+  </data>
+  <data name="ShakeItSettings_ProfilesManager" xml:space="preserve">
+    <value>Menanger Profili</value>
+  </data>
+  <data name="ShakeItSettings_AddEffect" xml:space="preserve">
+    <value>Dodaj efekt</value>
+  </data>
+  <data name="ShakeItSettings_AddGroup" xml:space="preserve">
+    <value>Dodaj grupę</value>
+  </data>
+  <data name="ShakeItSettings_PasteEffect" xml:space="preserve">
+    <value>Wklej efekt</value>
+  </data>
+  <data name="ShakeItSettings_ResetCarTrackCalibration" xml:space="preserve">
+    <value>Zresetuj kalibrację auta/trasy</value>
+  </data>
+  <data name="ShakeItSettings_SoundOutput" xml:space="preserve">
+    <value>Wyjście dźwieku</value>
+  </data>
+  <data name="ShakeItSettings_MotorsOutput" xml:space="preserve">
+    <value>Wyjście silników</value>
+  </data>
+  <data name="ShakeItSettings_OUTPUTSELECTION" xml:space="preserve">
+    <value>WYBÓR WYJŚCIA</value>
+  </data>
+  <data name="ShakeItSettings_ENABLEOUTPUT" xml:space="preserve">
+    <value>AKTYWUJ WYJŚCIE</value>
+  </data>
+  <data name="ShakeItSettings_OpenWindowsSoundSettings" xml:space="preserve">
+    <value>Otwórz ustawienia dźwieku</value>
+  </data>
+  <data name="ShakeItSettings_TestNow" xml:space="preserve">
+    <value>Przetestuj</value>
+  </data>
+  <data name="ShakeItSettings_Export" xml:space="preserve">
+    <value>Eksportuj</value>
+  </data>
+  <data name="ShakeItSettings_Import" xml:space="preserve">
+    <value>Importuj</value>
+  </data>
+  <data name="RecordSettings_CaptureFPS" xml:space="preserve">
+    <value>Przechwycone FPS:</value>
+  </data>
+  <data name="RecordSettings_StartRecording" xml:space="preserve">
+    <value>Rozpocznij nagrywanie</value>
+  </data>
+  <data name="ShakeItSettings_Mono" xml:space="preserve">
+    <value>Mono</value>
+  </data>
+  <data name="ShakeItSettings_Stereo" xml:space="preserve">
+    <value>Lewy / Prawy</value>
+  </data>
+  <data name="ShakeItSettings_FrontLR" xml:space="preserve">
+    <value>Przedni Lewy / Prawy</value>
+  </data>
+  <data name="ShakeItSettings_RearLR" xml:space="preserve">
+    <value>Tylni Lewy / Prawy</value>
+  </data>
+  <data name="ShakeItSettings_StereoFR" xml:space="preserve">
+    <value>Przedni / Tylni</value>
+  </data>
+  <data name="ShakeItSettings_4Channels" xml:space="preserve">
+    <value>Boki</value>
+  </data>
+  <data name="ShakeItSettings_CustomChannelMapUpTo8Channels" xml:space="preserve">
+    <value>Niestandardowa mapa kanałów (do 8 kanałów)</value>
+  </data>
+  <data name="ShakeItSettings_ConnectionError" xml:space="preserve">
+    <value>Bład połaczenia</value>
+  </data>
+  <data name="ShakeItSettings_XMotorsConnected" xml:space="preserve">
+    <value>{0} silników podłaczonych</value>
+  </data>
+  <data name="ShakeItSettings_AVAILABLEEFFECTS" xml:space="preserve">
+    <value>DOSTĘPNE EFEKTY</value>
+  </data>
+  <data name="ShakeItSettings_ADDALL" xml:space="preserve">
+    <value>DODAJ WSZYSTKIE</value>
+  </data>
+  <data name="GmailPlugin_Login" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="GmailPlugin_Password" xml:space="preserve">
+    <value>Hasło</value>
+  </data>
+  <data name="GmailPlugin_LastMail" xml:space="preserve">
+    <value>Ostatni Mail:</value>
+  </data>
+  <data name="CONTROLSUpperCase" xml:space="preserve">
+    <value>STEROWANIE</value>
+  </data>
+  <data name="ThrustmasterSettings_NoThrustmasterWheelFound" xml:space="preserve">
+    <value>nie znaleziono kierownicy thrustmaster</value>
+  </data>
+  <data name="ThrustmasterSettings_WHEELROTATION" xml:space="preserve">
+    <value>OBRÓT KIEROWNICY</value>
+  </data>
+  <data name="MappingPicker_Source" xml:space="preserve">
+    <value>Źródło</value>
+  </data>
+  <data name="MappingPicker_InputMode" xml:space="preserve">
+    <value>Tryb Wyjścia</value>
+  </data>
+  <data name="MobileAccessAssistant_OR" xml:space="preserve">
+    <value>ALBO</value>
+  </data>
+  <data name="Game" xml:space="preserve">
+    <value>GRA</value>
+  </data>
+  <data name="ShakeItSettings_PROFILEPROPERTIES" xml:space="preserve">
+    <value>WŁAŚCIWOŚCI PROFILU</value>
+  </data>
+  <data name="ShakeItSettings_ENABLEEFFECT" xml:space="preserve">
+    <value>WŁĄCZ EFEKTY</value>
+  </data>
+  <data name="ShakeItSettings_DeleteEffectTitle" xml:space="preserve">
+    <value>Usuń efekt</value>
+  </data>
+  <data name="ShakeItSettings_DeleteEffectMessage" xml:space="preserve">
+    <value>Jesyeś pewny że chcesz usunąć efekt ?</value>
+  </data>
+  <data name="ImportDash_TheInstallWasSuccessful" xml:space="preserve">
+    <value>Instalacja przebiegła pomyślnie</value>
+  </data>
+  <data name="ImportDash_DashAlreadyExists" xml:space="preserve">
+    <value>Kokpit istnieje</value>
+  </data>
+  <data name="ImportDash_ThisDashboardAlreadyExistsDoYouWantToOverwriteIt" xml:space="preserve">
+    <value>Ten kokpit istnieje, czy chcesz go nadpisać ?</value>
+  </data>
+  <data name="PropertiesCopyName" xml:space="preserve">
+    <value>Kopuj nazwę</value>
+  </data>
+  <data name="PropertiesCopyValue" xml:space="preserve">
+    <value>Kopiuj wartość</value>
+  </data>
+  <data name="GaugeSettings_TACHOMETER" xml:space="preserve">
+    <value>TACHOMETR</value>
+  </data>
+  <data name="GaugeSettings_BasicSettings" xml:space="preserve">
+    <value>Podstawowe ustawienia</value>
+  </data>
+  <data name="GaugeSettings_TestValue" xml:space="preserve">
+    <value>Wartość testowa</value>
+  </data>
+  <data name="ADD" xml:space="preserve">
+    <value>DODAJ</value>
+  </data>
+  <data name="GaugeSettings_FUELGAUGE" xml:space="preserve">
+    <value>MIERNIK PALIWA</value>
+  </data>
+  <data name="GaugeSettings_TEMPERATUREGAUGE" xml:space="preserve">
+    <value>MIERNIK TEMPERATURY</value>
+  </data>
+  <data name="GaugeSettings_BOOSTGAUGE" xml:space="preserve">
+    <value>MIERNIK OBROTÓW</value>
+  </data>
+  <data name="BeltTensionnerPluginUI_SerialPort" xml:space="preserve">
+    <value>Port szeregowy:</value>
+  </data>
+  <data name="BeltTensionnerPluginUI_RawGameValue" xml:space="preserve">
+    <value>Wartość surowa gry</value>
+  </data>
+  <data name="TestDataEditor_GameStatus" xml:space="preserve">
+    <value>Status Gry</value>
+  </data>
+  <data name="TestDataEditor_Gain" xml:space="preserve">
+    <value>Zysk</value>
+  </data>
+  <data name="SessionHistory_SessionDetails_S1" xml:space="preserve">
+    <value>S1</value>
+  </data>
+  <data name="SessionHistory_SessionDetails_S2" xml:space="preserve">
+    <value>S2</value>
+  </data>
+  <data name="SessionHistory_SessionDetails_S3" xml:space="preserve">
+    <value>S3</value>
+  </data>
+  <data name="BindingEditor_None" xml:space="preserve">
+    <value>Brak</value>
+  </data>
+  <data name="BindingEditor_NcalcFormula" xml:space="preserve">
+    <value>Formuła NCalc:</value>
+  </data>
+  <data name="BindingEditor_Javascript" xml:space="preserve">
+    <value>Javascript:</value>
+  </data>
+  <data name="BindingEditor_Value" xml:space="preserve">
+    <value>Wartość</value>
+  </data>
+  <data name="BindingEditor_ResultFormat" xml:space="preserve">
+    <value>Wynik formatowania:</value>
+  </data>
+  <data name="TestDataEditor_GameRunning" xml:space="preserve">
+    <value>Gra uruchomiona</value>
+  </data>
+  <data name="TestDataEditor_BlackFlag" xml:space="preserve">
+    <value>Czarna Flaga</value>
+  </data>
+  <data name="TestDataEditor_YellowFlag" xml:space="preserve">
+    <value>Żółta Flaga</value>
+  </data>
+  <data name="TestDataEditor_WhiteFlag" xml:space="preserve">
+    <value>Biała Flaga</value>
+  </data>
+  <data name="TestDataEditor_BlueFlag" xml:space="preserve">
+    <value>Niebieska Flaga</value>
+  </data>
+  <data name="NextionEditorWindow_InGame" xml:space="preserve">
+    <value>W grze</value>
+  </data>
+  <data name="NextionEditorWindow_Skip" xml:space="preserve">
+    <value>Pomiń</value>
   </data>
 </root>
