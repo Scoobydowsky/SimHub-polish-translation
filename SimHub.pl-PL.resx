@@ -4347,4 +4347,49 @@
   <data name="BeltTensionnerPluginUI_CheckBox_EnableSwayForce" xml:space="preserve">
     <value>Włącz siłę kołysania</value>
   </data>
+  <data name="DashStudioUsbLedModuleSettings_RadioButton_Off" xml:space="preserve">
+    <value>OFF</value>
+  </data>
+  <data name="DashStudioUsbLedModuleSettings_RadioButton_Advanced" xml:space="preserve">
+    <value>Zaawansowane</value>
+  </data>
+  <data name="DashStudioUsbLedModuleSettings_RadioButton_OnWhenInRace" xml:space="preserve">
+    <value>Kiedy w wyścigu</value>
+  </data>
+  <data name="DashStudioUsbLedModuleSettings_RadioButton_AlwaysOn" xml:space="preserve">
+    <value>Zawsze właczone</value>
+  </data>
+  <data name="ShakeItSettings_Settings" xml:space="preserve">
+    <value>Ustawienia</value>
+  </data>
+  <data name="DashStudioUsbLedModuleSettings_RadioButton_ButtonsBrightness" xml:space="preserve">
+    <value>Janość przycisków</value>
+  </data>
+  <data name="DashStudioUsbLedModuleSettings_RadioButton_RGBBrightness" xml:space="preserve">
+    <value>Jasność RGB</value>
+  </data>
+  <data name="DashStudioUsbLedModuleSettings_Title_RGBLeds" xml:space="preserve">
+    <value>Ledy RGB</value>
+  </data>
+  <data name="RGBEffectRPMContainerEditor_RadioButton_PercentOfRedline" xml:space="preserve">
+    <value>Procent RPM redline</value>
+  </data>
+  <data name="RGBEffectLedsRpmsSegmentsEditor_Label_StartRPMPercentOfRedline" xml:space="preserve">
+    <value>Początkowe obroty na minutę (% czerwonej linii)</value>
+  </data>
+  <data name="GraphicalDashPluginList_Label_RGBLEDSBrightness" xml:space="preserve">
+    <value>Jasność diod LED RGB</value>
+  </data>
+  <data name="DashStudioUsbLedModuleSettings_Title_ButtonsLighting" xml:space="preserve">
+    <value>Oświetlenie przycisków</value>
+  </data>
+  <data name="GraphicalDashPluginList_Label_ButtonsBrightness" xml:space="preserve">
+    <value>Jasność przycisków</value>
+  </data>
+  <data name="DashStudioUsbLedModuleSettings_Title_PotentiometerControl" xml:space="preserve">
+    <value>Sterowanie potencjometrem</value>
+  </data>
+  <data name="GraphicalDashPluginList_CheckBox_MinimizeSimhubMainWindowOnLayoutLoad" xml:space="preserve">
+    <value>Zminimalizuj główne okno SimHub podczas ładowania układu</value>
+  </data>
 </root>
