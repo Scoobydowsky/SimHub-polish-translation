@@ -4392,4 +4392,154 @@
   <data name="GraphicalDashPluginList_CheckBox_MinimizeSimhubMainWindowOnLayoutLoad" xml:space="preserve">
     <value>Zminimalizuj główne okno SimHub podczas ładowania układu</value>
   </data>
+  <data name="WindProfileControl_Title_MaximumSpeed" xml:space="preserve">
+    <value>Maksymalna prędkość samochodu</value>
+  </data>
+  <data name="WindProfileControl_RadioButton_Automatic" xml:space="preserve">
+    <value>Auto</value>
+  </data>
+  <data name="WindProfileControl_RadioButton_Manual" xml:space="preserve">
+    <value>Recznie</value>
+  </data>
+  <data name="WindProfileControl_SliderTitle_FixedMaxSpeed" xml:space="preserve">
+    <value>Poprawiona Maksymalna prędkość</value>
+  </data>
+  <data name="WindProfileControl_Title_CockpitMode" xml:space="preserve">
+    <value>Tryb kokpitu</value>
+  </data>
+  <data name="DashStudioEditorSelectionAdorner_UnLockComponents" xml:space="preserve">
+    <value>Odblokuj komponenty</value>
+  </data>
+  <data name="DashStudioEditorSelectionAdorner_MoveToFront" xml:space="preserve">
+    <value>Przesuń do przodu</value>
+  </data>
+  <data name="DashStudioEditorSelectionAdorner_CopySize" xml:space="preserve">
+    <value>Rozmiar kopii</value>
+  </data>
+  <data name="DashStudioEditorSelectionAdorner_PasteSize" xml:space="preserve">
+    <value>Wklej rozmiar</value>
+  </data>
+  <data name="DashboardEditor_DashboardBaseWidth" xml:space="preserve">
+    <value>Szerokość deski rozdzielczej</value>
+  </data>
+  <data name="DashboardEditor_DashboardBaseHeight" xml:space="preserve">
+    <value>Wysokość deski rozdzielczej</value>
+  </data>
+  <data name="DashboardEditor_ForegroundLayer" xml:space="preserve">
+    <value>Warstwa pierwszego planu</value>
+  </data>
+  <data name="DashboardEditor_BackgroundLayer" xml:space="preserve">
+    <value>Warstwa tła</value>
+  </data>
+  <data name="DashboardEditor_Overlay" xml:space="preserve">
+    <value>Warstwa nakładki</value>
+  </data>
+  <data name="DashboardEditor_DeleteScreen" xml:space="preserve">
+    <value>Usuń ekran</value>
+  </data>
+  <data name="DashboardEditor_ManageScreens" xml:space="preserve">
+    <value>Zarządzaj ekranami</value>
+  </data>
+  <data name="DashStudioUsbLedModuleSettings_CheckBox_UseButtonDefaultColors" xml:space="preserve">
+    <value>Użyj domyślnych kolorów przycisków</value>
+  </data>
+  <data name="DashStudioUsbLedModuleSettings_Link_EditDefaultColors" xml:space="preserve">
+    <value>Edytuj domyślne kolory</value>
+  </data>
+  <data name="WindProfileControl_Label_MaximumSpeedMode" xml:space="preserve">
+    <value>Tryb maksymalnej prędkości:</value>
+  </data>
+  <data name="WindProfileControl_Title_DraftingEffect" xml:space="preserve">
+    <value>Efekt dryfowania</value>
+  </data>
+  <data name="WindProfileControl_SliderTitle_DraftEffectIntensityWhenAvailable" xml:space="preserve">
+    <value>Intensywnosć efektu dryfowania (kiedy jest dostępna)</value>
+  </data>
+  <data name="DashStudioEditorSelectionAdorner_ZOrder" xml:space="preserve">
+    <value>Oś-Z</value>
+  </data>
+  <data name="GraphicalDashPluginList_ActionPicker_CycleNextDashTemplate_DesktopOnly" xml:space="preserve">
+    <value>Cykl następnego szablonu kokpitu (tylko komputer)</value>
+  </data>
+  <data name="GraphicalDashPluginList_ActionPicker_CyclePreviousDashTemplate_DesktopOnly" xml:space="preserve">
+    <value>Cykl poprzedniego szablonu kokpitu (tylko na komputerze)</value>
+  </data>
+  <data name="DashboardEditor_OverlayLayer" xml:space="preserve">
+    <value>Warstwa nakładki</value>
+  </data>
+  <data name="GraphicalDashPluginList_MenuItem_EditDashboardDock" xml:space="preserve">
+    <value>Edytuj kokpit</value>
+  </data>
+  <data name="GraphicalDashPluginList_Button_ImportDashboard" xml:space="preserve">
+    <value>Importuj kokpit</value>
+  </data>
+  <data name="PluginName_DevicesPlugin" xml:space="preserve">
+    <value>Urządzenia</value>
+  </data>
+  <data name="PluginDescription_DevicesPlugin" xml:space="preserve">
+    <value>Obsługuje różne urządzenia (wymagana jest wtyczka DashStudio).</value>
+  </data>
+  <data name="GraphicalDashPluginList_DashMenu_ShowOn" xml:space="preserve">
+    <value>Pokaż {0}</value>
+  </data>
+  <data name="DevicesPluginMainControl_Link_AddNewDevice" xml:space="preserve">
+    <value>Dodaj nowe urządzenie</value>
+  </data>
+  <data name="DevicesPluginMainControl_Link_ImportDevice" xml:space="preserve">
+    <value>Importuj urządzenie</value>
+  </data>
+  <data name="DevicesPluginMainControl_Link_DeleteDevice" xml:space="preserve">
+    <value>Usuń urządzenie</value>
+  </data>
+  <data name="DevicesPluginMainControl_Link_RenameDevice" xml:space="preserve">
+    <value>Zmień nazwę urządzenia</value>
+  </data>
+  <data name="DevicesPluginMainControl_Link_ExportDeviceSettings" xml:space="preserve">
+    <value>Eksportuj ustawienia urządzenia</value>
+  </data>
+  <data name="DevicesPluginMainControl_Link_MakeCurrentSettingsDefault" xml:space="preserve">
+    <value>Ustaw jako domyślne</value>
+  </data>
+  <data name="Devices_PartiallyConnected" xml:space="preserve">
+    <value>Częściowo podłączony...</value>
+  </data>
+  <data name="Devices_SearchingDevice" xml:space="preserve">
+    <value>Szukam urządzenia ...</value>
+  </data>
+  <data name="USBDisplaySettings_SectionTitle_General" xml:space="preserve">
+    <value>Ogólne</value>
+  </data>
+  <data name="USBDisplaySettings_SectionTitle_MainDashboard" xml:space="preserve">
+    <value>Głowny kokpit</value>
+  </data>
+  <data name="USBDisplaySettings_CheckBox_SaveRestoreLastDashboardUsedByGameCarWhenCarModelIsAvailable" xml:space="preserve">
+    <value>Zapisz/ Przywróć ostatni kokpit używany przez grę/samochód (jeśli model samochodu jest dostępny)</value>
+  </data>
+  <data name="USBDisplaySettings_Link_ResetSavedDashboards" xml:space="preserve">
+    <value>Zresetuj zapisane kokpity</value>
+  </data>
+  <data name="USBDisplaySettings_SectionTitle_IdleBehaviour" xml:space="preserve">
+    <value>Bezczynność</value>
+  </data>
+  <data name="USBDisplaySettings_CheckBox_SaveRestoreLastIdleDashboardUsedByGame" xml:space="preserve">
+    <value>Zapisz/przywróć ostatni spoczynkowy kokpit używany przez grę.</value>
+  </data>
+  <data name="USBDisplays" xml:space="preserve">
+    <value>Wyświetlacze USB</value>
+  </data>
+  <data name="GraphicalDashPluginList_Label_USBDevicesScreensLedsAreNow" xml:space="preserve">
+    <value>Urządzenia USB (ekrany, diody LED ...) są teraz</value>
+  </data>
+  <data name="GraphicalDashPluginList_Label_AvailableInTheDevicesSection" xml:space="preserve">
+    <value>dostępne w zakładce urządzenia.</value>
+  </data>
+  <data name="GraphicalDashPluginList_Button_GoTheDevices" xml:space="preserve">
+    <value>Przejdź do urządzeń</value>
+  </data>
+  <data name="PropertiesSearchInValues" xml:space="preserve">
+    <value>Wyszukaj wartości wewnętrzne</value>
+  </data>
+  <data name="ShakeItSettings_Clear" xml:space="preserve">
+    <value>Wyczyść</value>
+  </data>
 </root>
